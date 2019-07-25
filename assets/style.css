@@ -38,4 +38,7 @@ position: absolute;
     width: 100%;
   }
 
+body {
+    background: linear-gradient(to bottom,#1d1c1c, #353433 100%);
+}
 
